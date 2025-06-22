@@ -56,9 +56,8 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="40" alt="git"  />
   <img width="12" />
-  
-  
-  
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker"  />
+  <img width="12" />
   
 </div>
 
