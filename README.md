@@ -84,6 +84,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="40" alt="cmake"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="40" alt="git"  />
