@@ -29,13 +29,14 @@
     <ul>
       <li>
         <details>
-          <summary><b>Демонстрация работы приложения</b></summary> 
+          <summary>Демонстрация работы приложения</summary> 
           <div>
             <div align="center">
               <img alt="Демонстрация приложения" height="479" width="800" src="qt_example.gif">
             </div>
           </div>
         </details>
+        -----
       </li>
       <li>Основной функционал:
         <ul>
