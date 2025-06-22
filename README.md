@@ -42,27 +42,39 @@
       <span class="tech-tag">STL</span>
     </div>
   </div>
+
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden; background: #fff; color: #333; line-height: 1.6;">
+  <div style="padding: 20px; background: linear-gradient(135deg, #2c3e50, #4ca1af); color: white;">
+    <h2 style="margin: 0; font-size: 24px;">👨‍💼 Employee Management Desktop App (Qt/C++)</h2>
+    <div style="margin-top: 10px;">
+      <span style="display: inline-block; background: rgba(255, 255, 255, 0.2); padding: 3px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">C++</span>
+      <span style="display: inline-block; background: rgba(255, 255, 255, 0.2); padding: 3px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">Qt Framework</span>
+      <span style="display: inline-block; background: rgba(255, 255, 255, 0.2); padding: 3px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">QWidgets</span>
+      <span style="display: inline-block; background: rgba(255, 255, 255, 0.2); padding: 3px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">OOP</span>
+      <span style="display: inline-block; background: rgba(255, 255, 255, 0.2); padding: 3px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">STL</span>
+    </div>
+  </div>
   
-  <div class="project-content">
-    <div class="project-details">
-      <h3>🔍 Описание проекта</h3>
+  <div style="padding: 20px;">
+    <div>
+      <h3 style="color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 8px; margin-top: 0;">🔍 Описание проекта</h3>
       <p>Десктопное приложение для управления базой данных сотрудников с интуитивным интерфейсом и расширенными функциями работы с данными.</p>
       
-      <div class="features">
-        <h4>✨ Основные функции:</h4>
-        <ul>
-          <li>✅ CRUD операции с записями сотрудников</li>
-          <li>🔍 Поиск и фильтрация по ФИО, должности, стажу</li>
-          <li>📷 Загрузка и отображение фотографий</li>
-          <li>📅 Увольнение с указанием причины</li>
-          <li>🔄 Два режима отображения (список/таблица)</li>
-          <li>💾 Сериализация данных через QDataStream</li>
+      <div style="margin: 15px 0;">
+        <h4 style="color: #4ca1af; margin-bottom: 8px;">✨ Основные функции:</h4>
+        <ul style="padding-left: 20px;">
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">✅ CRUD операции с записями сотрудников</li>
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">🔍 Поиск и фильтрация по ФИО, должности, стажу</li>
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">📷 Загрузка и отображение фотографий</li>
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">📅 Увольнение с указанием причины</li>
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">🔄 Два режима отображения (список/таблица)</li>
+          <li style="margin-bottom: 6px; list-style-type: none; position: relative; padding-left: 25px;">💾 Сериализация данных через QDataStream</li>
         </ul>
       </div>
       
-      <div class="implementation">
-        <h4>🛠️ Реализация:</h4>
-        <ul>
+      <div style="margin: 15px 0;">
+        <h4 style="color: #4ca1af; margin-bottom: 8px;">🛠️ Реализация:</h4>
+        <ul style="padding-left: 20px;">
           <li>Кастомизированные виджеты и диалоговые окна</li>
           <li>Модель-представление для работы с данными</li>
           <li>Механизм сигналов/слотов для обработки событий</li>
@@ -71,127 +83,15 @@
       </div>
     </div>
     
-    <details class="demo-section">
-      <summary>🎥 Демонстрация работы</summary>
-      <div class="demo-content">
-        <img alt="Демонстрация приложения" src="qt_example.gif" class="demo-gif" />
-        <p class="demo-description">Наглядно показаны основные функции приложения: добавление нового сотрудника, поиск по базе, переключение между режимами отображения и другие возможности интерфейса.</p>
+    <details style="margin-top: 25px; border: 1px solid #eee; border-radius: 8px; padding: 12px;">
+      <summary style="font-weight: bold; cursor: pointer; outline: none; color: #2c3e50;">🎥 Демонстрация работы</summary>
+      <div style="margin-top: 15px; text-align: center;">
+        <img alt="Демонстрация приложения" src="qt_example.gif" style="max-width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);" />
+        <p style="margin-top: 10px; font-size: 14px; color: #666;">Наглядно показаны основные функции приложения: добавление нового сотрудника, поиск по базе, переключение между режимами отображения и другие возможности интерфейса.</p>
       </div>
     </details>
   </div>
 </div>
-
-<style>
-.project-card {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 900px;
-  margin: 20px auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  overflow: hidden;
-  background: #fff;
-  color: #333;
-  line-height: 1.6;
-}
-
-.project-header {
-  padding: 20px;
-  background: linear-gradient(135deg, #2c3e50, #4ca1af);
-  color: white;
-}
-
-.project-header h2 {
-  margin: 0;
-  font-size: 24px;
-}
-
-.tech-stack {
-  margin-top: 10px;
-}
-
-.tech-tag {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
-  padding: 3px 8px;
-  margin-right: 8px;
-  border-radius: 4px;
-  font-size: 12px;
-}
-
-.project-content {
-  padding: 20px;
-}
-
-.project-details h3 {
-  color: #2c3e50;
-  border-bottom: 2px solid #eee;
-  padding-bottom: 8px;
-  margin-top: 0;
-}
-
-.features, .implementation {
-  margin: 15px 0;
-}
-
-.features h4, .implementation h4 {
-  color: #4ca1af;
-  margin-bottom: 8px;
-}
-
-.features ul, .implementation ul {
-  padding-left: 20px;
-}
-
-.features li {
-  margin-bottom: 6px;
-  list-style-type: none;
-  position: relative;
-  padding-left: 25px;
-}
-
-.features li:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 7px;
-  width: 8px;
-  height: 8px;
-  background: #4ca1af;
-  border-radius: 50%;
-}
-
-.demo-section {
-  margin-top: 25px;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 12px;
-}
-
-.demo-section summary {
-  font-weight: bold;
-  cursor: pointer;
-  outline: none;
-  color: #2c3e50;
-}
-
-.demo-content {
-  margin-top: 15px;
-  text-align: center;
-}
-
-.demo-gif {
-  max-width: 100%;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.demo-description {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #666;
-}
-</style>
-
 
 Разработал программный комплекс для автоматизированного Bin Picking, включающий интеграцию системы компьютерного зрения (OpenCV, Yolo) с робототехническим API через Python. Реализовал алгоритмы обработки 2D-данных, планирования траекторий и управления захватом робота, а также вспомогательные утилиты для калибровки камер и тестирования их точности.
 
