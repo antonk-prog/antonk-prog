@@ -28,6 +28,7 @@
     <strong>Разработал десктопное приложение для управления персоналом (Qt/C++)</strong>
     <ul>
       <li>
+        <hr style="border: 1px solid #000; margin: 20px 0;">
         <details>
           <summary>Демонстрация работы приложения</summary> 
           <div>
@@ -36,8 +37,8 @@
             </div>
           </div>
         </details>
-        -----
       </li>
+      <hr style="border: 1px solid #000; margin: 20px 0;">
       <li>Основной функционал:
         <ul>
           <li>Добавление/редактирование/удаление сотрудников</li>
