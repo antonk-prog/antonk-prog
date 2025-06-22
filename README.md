@@ -29,7 +29,7 @@
     <ul>
       <li>
         <details>
-          <summary>Демонстрация работы приложения <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> (нажми на меня)</summary> 
+          <summary><b>Демонстрация работы приложения</b></summary> 
           <div>
             <div align="center">
               <img alt="Демонстрация приложения" height="479" width="800" src="qt_example.gif">
