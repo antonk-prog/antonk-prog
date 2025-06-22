@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -60,6 +54,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="40" alt="git"  />
+  <img width="12" />
+  
   
   
   
