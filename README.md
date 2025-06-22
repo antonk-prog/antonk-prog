@@ -56,6 +56,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354243/qt.svg" height="40" alt="qt logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="40" alt="cmake"  />
+  <img width="12" />
+  
   
 </div>
 
