@@ -54,6 +54,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/354243/qt.svg" height="40" alt="qt logo"  />
+  <img width="12" />
   
 </div>
 
