@@ -98,7 +98,6 @@
           <li>Робототехническое API</li>
           <li>Scipy</li>
           <li>numpy</li>
-
         </ul>
       </li>
       <li>
