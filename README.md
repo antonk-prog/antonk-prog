@@ -50,8 +50,11 @@
 
 <div align="left">
 
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" alt="c++ logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
