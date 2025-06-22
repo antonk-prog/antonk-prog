@@ -63,4 +63,15 @@
   
 </div>
 
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+    <summary>Click2👆</summary>
+  <pre>
+  🤷‍♂️2
+  </pre>
+</details>
+
 ###
