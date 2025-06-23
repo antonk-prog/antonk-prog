@@ -111,21 +111,6 @@ f
 
 ---
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonk-prog&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonk-prog&theme=tokyonight" />
-</p>
-
----
-
-## 📬 Чем могу быть полезен
-
-- Разработка надёжного и производительного C/C++ кода
-- Проектирование архитектур под реальное ПО и задачи
-- Разработка приложений для Linux/Qt/сетей/робототехники
-
 📫 [Связаться в Telegram](https://t.me/antonk_prog)
 
 ---
