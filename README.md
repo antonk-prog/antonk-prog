@@ -77,7 +77,7 @@ f
 </details>
 </td>
 <td>
-  <img src="robotics_little.gif" width="320px">
+  <img src="robotics_little.gif" width="534px" height="300px">
 </td>
 </tr>
 </table>
