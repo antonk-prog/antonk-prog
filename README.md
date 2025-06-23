@@ -67,8 +67,8 @@
           <li>Кастомизированные виджеты</li>
         </ul>
       </li>
-      <li><a href="https://github.com/antonk-prog/employee-manager-qt">Ссылка на проект</a>
-        
+      <li>
+        <a href="https://github.com/antonk-prog/employee-manager-qt">Ссылка на проект</a>
       </li>
     </ul>
   </li>
