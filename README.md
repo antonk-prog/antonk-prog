@@ -49,7 +49,7 @@ f
 🔗 [Ссылка на проект](https://github.com/antonk-prog/employee-manager-qt)
 </td>
 <td>
-  <img src="qt_example_small.gif" width="800px" height="479px">
+  <img src="qt_example_small.gif" width="534px" height="320px">
 </td>
 </tr>
 </table>
