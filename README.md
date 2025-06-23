@@ -150,12 +150,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker"  />
   <img width="12" />
 </div>
-
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
-
-###
